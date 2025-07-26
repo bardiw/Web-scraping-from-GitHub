@@ -31,3 +31,11 @@ This project performs **web scraping** on GitHub to collect the most starred rep
 
 ```bash
 python gwscr.py
+```
+
+You will be prompted to enter:
+
+- Programming language (e.g., Python)
+
+- Number of repositories to fetch
+
