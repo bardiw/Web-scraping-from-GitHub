@@ -70,4 +70,5 @@ And then parse response.json()['items'].
 ## 🧑‍💻 Author    
  Bardia Javadi    
  Data Science Enthusiast | Python Developer    
- [GitHub: @bardiw](https://meet.google.com/oxa-hmof-mkm)   
+ GitHub: [@bardiw](https://github.com/bardiw)
+
