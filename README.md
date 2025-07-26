@@ -57,7 +57,7 @@ Each entry contains:
 
 ---
 
-##🚀 Example GitHub API Usage
+## 🚀 Example GitHub API Usage
 Replace the URL with this if you want to use GitHub API:
 
 ```
