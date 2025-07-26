@@ -39,3 +39,18 @@ You will be prompted to enter:
 
 - Number of repositories to fetch
 
+---
+
+## 📂 Output
+Results will be saved in a file named like:
+
+```
+trending_python_repositories.txt
+```
+Each entry contains:
+
+- Repository name
+
+- Description
+
+- Direct URL to the repo
