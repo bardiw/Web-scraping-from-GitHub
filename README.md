@@ -67,7 +67,7 @@ And then parse response.json()['items'].
 
 ---
 
-## 🧑‍💻 Author
-Bardia Javadi
-Data Science Enthusiast | Python Developer
-GitHub: @bardiw
+## 🧑‍💻 Author    
+ Bardia Javadi    
+ Data Science Enthusiast | Python Developer    
+ GitHub: @bardiw   
