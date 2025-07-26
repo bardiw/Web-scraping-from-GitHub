@@ -54,3 +54,20 @@ Each entry contains:
 - Description
 
 - Direct URL to the repo
+
+---
+
+##🚀 Example GitHub API Usage
+Replace the URL with this if you want to use GitHub API:
+
+```
+url = f"https://api.github.com/search/repositories?q=language:{language}&sort=stars&order=desc&per_page=100&page={page}"
+And then parse response.json()['items'].
+```
+
+---
+
+## 🧑‍💻 Author
+Bardia Javadi
+Data Science Enthusiast | Python Developer
+GitHub: @bardiw
